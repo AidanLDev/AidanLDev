@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AidanLDev
+- 💻 Check out my Portfolio - www.aidanlowson.com
 - 👀 I’m interested in nature, fitness and music!
 - 🌱 I’m currently learning how to play guitar, the Indonesian language and touching up on the React skills
 - 💞️ I’m looking to collaborate on anything exciting really
