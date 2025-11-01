@@ -2,10 +2,10 @@
 Full stack Developer from 🇬🇧, mainly working with React, Next, AWS and Python.
 
 ### Main Repos I'm actively maintaining atm
-- [Personal Portfolio](https://aidanlowson.com/) [GH Link](https://github.com/AidanLDev/Portfolio)
-- [FreeQRGen](https://freeqrgen.net/) [GH Link](https://github.com/AidanLDev/free-qr-gen)
-- [Double A Team Blog](https://www.blog.aidanlowson.com/) [GH Link](https://github.com/AidanLDev/doubleateam)
-- [Dev Daily Hub Blog](https://devdailyhub.com/) [GH Link](https://github.com/AidanLDev/dev-daily-hub)
+- [Personal Portfolio](https://aidanlowson.com/) | [GH Link](https://github.com/AidanLDev/Portfolio)
+- [FreeQRGen](https://freeqrgen.net/)    |    [GH Link](https://github.com/AidanLDev/free-qr-gen)
+- [Double A Team Blog](https://www.blog.aidanlowson.com/) | [GH Link](https://github.com/AidanLDev/doubleateam)
+- [Dev Daily Hub Blog](https://devdailyhub.com/) | [GH Link](https://github.com/AidanLDev/dev-daily-hub)
 
 ### Find me on
 - [LinkedIn](https://www.linkedin.com/in/aidanlowson1/)
