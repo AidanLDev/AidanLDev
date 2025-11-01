@@ -10,13 +10,13 @@ Passionate about building scalable web applications with **React** • **Next.js
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 Personal Portfolio
+### Personal Portfolio
 
 [![Website](https://img.shields.io/website?label=aidanlowson.com&style=for-the-badge&url=https://aidanlowson.com)](https://aidanlowson.com/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/AidanLDev/Portfolio)
@@ -26,7 +26,7 @@ My personal portfolio showcasing projects, skills, and experience.
 </td>
 <td width="50%">
 
-### 📱 FreeQRGen
+### FreeQRGen
 
 [![Website](https://img.shields.io/website?label=freeqrgen.net&style=for-the-badge&url=https://freeqrgen.net)](https://freeqrgen.net/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/AidanLDev/free-qr-gen)
@@ -38,7 +38,7 @@ Simple Free QR code generator - no tracking, no ads.
 <tr>
 <td width="50%">
 
-### ✍️ Double A Team Blog
+### Double A Team Blog
 
 [![Website](https://img.shields.io/website?label=blog.aidanlowson.com&style=for-the-badge&url=https://www.blog.aidanlowson.com)](https://www.blog.aidanlowson.com/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/AidanLDev/doubleateam)
@@ -48,7 +48,7 @@ Sharing personal updates, mainly travel stuff from me wife and I.
 </td>
 <td width="50%">
 
-### 💻 Dev Daily Hub
+### Dev Daily Hub
 
 [![Website](https://img.shields.io/website?label=devdailyhub.com&style=for-the-badge&url=https://devdailyhub.com)](https://devdailyhub.com/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/AidanLDev/dev-daily-hub)
@@ -61,7 +61,7 @@ Dev news, tutorials, and resources.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aidanlowson1/">
