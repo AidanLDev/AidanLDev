@@ -1,13 +1,17 @@
-- 👋 Hi, I’m Aidan
-- 💻 Check out my Portfolio - www.aidanlowson.com
-- 👀 I’m interested in nature, fitness and music!
-- 🌱 I’m currently learning how to play guitar, the Indonesian language and touching up on the React skills
-- 💞️ I’m looking to collaborate on anything exciting really
-- 📫 How to reach me dev@aidanlowson.com
+# Hello! Aidan here 😎
+Full stack Developer from 🇬🇧, mainly working with React, Next, AWS and Python.
 
-[![An image of @aidanldev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aidanldev)](https://holopin.io/@aidanldev)
+### Main Repos I'm actively maintaining atm
+- [Personal Portfolio](https://aidanlowson.com/) [GH Link](https://github.com/AidanLDev/Portfolio)
+- [FreeQRGen](https://freeqrgen.net/) [GH Link](https://github.com/AidanLDev/free-qr-gen)
+- [Double A Team Blog](https://www.blog.aidanlowson.com/) [GH Link](https://github.com/AidanLDev/doubleateam)
+- [Dev Daily Hub Blog](https://devdailyhub.com/) [GH Link](https://github.com/AidanLDev/dev-daily-hub)
 
-<!---
-AidanLDev/AidanLDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Find me on
+- [LinkedIn](https://www.linkedin.com/in/aidanlowson1/)
+- [YouTube](https://www.youtube.com/channel/UCDJAFkcMY5Ze3SKQS-fhg0A)
+- [TikTok](https://www.tiktok.com/@aidanlowson)
+- [LeetCode](https://leetcode.com/AidanLDev/)
+- [Email](mailto:dev@aidanlowson.com)
+
+  
